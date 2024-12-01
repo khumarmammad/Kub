@@ -1,0 +1,13 @@
+.app {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+h1 {
+  margin: 20px;
+  font-size: 2em;
+}
+.dice-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
